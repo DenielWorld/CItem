@@ -1,0 +1,5 @@
+name: CItem
+main: CItem\CItem
+api: [3.0.0]
+version: 1.0
+author: DenielW
